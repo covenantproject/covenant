@@ -59,7 +59,7 @@ I understand and agree to the following intellectual property terms:
 
 12. The undersigned disclaims any express or implied warranties that would require the contributor to provide ongoing technical support for the contribution.
 
-13. In case of disputes, the undersigned individual or entity agrees to arbitration by an arbitrator chosen by the project leads and participants in a jurisdiction of their choosing. If arbitration fails, the undersigned may pursue legal action in a jurisdiction chosen by the project leads. If the project leads or participants prevail, the undersigned agrees to pay all legal expenses of the project leads and participants. If the undersigned prevails, the only recourse available to the undersigned is a cease and desist order for any violation of the terms of this agreement.
+13. In case of disputes, the undersigned individual or entity agrees to arbitration by an arbitrator chosen by the project leads and participants in a jurisdiction of their choosing. If arbitration fails, the undersigned may pursue legal action in a jurisdiction chosen by the project leads. If the project leads or contributors prevail, the undersigned agrees to pay all legal expenses of the project leads and participants. If the undersigned prevails, the only recourse available to the undersigned is a cease and desist order for any violation of the terms of this agreement.
 
 D. SIGNATURE
 
@@ -84,7 +84,7 @@ D. SIGNATURE
 3.6. Optionally - your qualifications and affiliations:
 3.7. Optional - your website, Twitter or LinkedIn address:
 
-4. We will acknowledge all contributions to the project by default. If you prefer not to mention acknowledgments/contributions list, please write “I opt out” here: 
+4. We will acknowledge all contributions to the project by default. If you prefer to remain anonymous and not be acknowledged publicly, please write “I opt out” here: 
 
 I affirm that the above information is true to the best of my knowledge. I agree to all the terms of this agreement. 
 
