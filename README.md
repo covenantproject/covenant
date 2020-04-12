@@ -1,11 +1,11 @@
 # Covenant
 Covenant - COVID-19 Quarantine Monitoring System
 
-https://covenant.nullhypo.com
+Website: https://covenant.nullhypo.com
 
 (c) 2020 Covenant Team
 
-This codebase is an updated version of the codebase at https://github.com/TheSciFiMed/Covid-FLutter
+This repo contains an updated version of the codebase at https://github.com/TheSciFiMed/Covid-FLutter
 
 # Functionality
 
