@@ -1,4 +1,4 @@
-# covenant
+# Covenant
 Covenant - COVID-19 Quarantine Monitoring System
 
 https://covenant.nullhypo.com
