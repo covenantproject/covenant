@@ -5,7 +5,16 @@ Website: https://covenant.nullhypo.com
 
 (c) 2020 Covenant Team
 
-This repo contains an updated version of the codebase at https://github.com/TheSciFiMed/Covid-FLutter
+# Contributor Agreement
+By contributing ideas or code to this project, you agree to  https://github.com/sencode/covenant/blob/master/contributor-agreement.txt
+
+This repo contains an updated version of the codebase at https://github.com/TheSciFiMed/Covid-FLutter 
+
+We organized the project into multiple repos so that different modules can be managed easily, and this main repo will be used to ingerate them. Here are the module repos:
+
+- Mobile Application front-end for patients: 
+- Web Application front-end for health professionals: cov-healthpro-webui
+- Back-end data and API layers:
 
 # Functionality
 
