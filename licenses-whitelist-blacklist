@@ -61,5 +61,4 @@ SPECIAL CIRCUMSTANCES
 
 2. LGPL: libraries released under the GNU Lesser GPL (LGPL) v2, v2.1 and v3 may be included in the Covenant Project, even though they are blacklisted by the Apache Software Foundation for their own projects.
 
-3. PostGIS: libraries published under GPL v2/v3 MUST NOT be included in Covenant Project. However, it is pertinent to note that PostGIS, the GIS (Geographical Information System) extension to PostgreSQL is published under GPL v2. GPL v2 is incompatible with ASL v2. However, we may be allowed to connect to a PostgreSQL database (whose license is compatible with ASL v2) with a PostGIS extension. As of this writing, Covenant does not use PostGIS. Further clarification is needed before we use PostGIS.
-
+3. PostGIS: PostGIS, the GIS (Geographical Information System) extension to PostgreSQL is published under GPL v2. Though GPL v2 is incompatible with ASL v2, it is acceptable to include PostGIS in Covenant according to this clarification on the PostGIS website: http://postgis.net/docs/manual-dev/PostGIS_FAQ.html#license_faq
