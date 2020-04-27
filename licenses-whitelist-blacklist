@@ -1,0 +1,63 @@
+Covenant Project is licensed as open source under the Apache License v2. Third party libraries used in Covenant Project must also be open source under a compatible license. Contributors to Covenant Project must comply with these license constraints.
+
+Apache Software Foundation has an exhaustive list of licenses that are compatible with Apache License v2 at https://www.apache.org/legal/resolved.html
+Among these, we are listing the most pertinent ones here. 
+
+If you find software libraries that are under a license that is not listed above, please contact the project lead for clarification. 
+
+If you find a software library or a snippet of code that does not have any license, contact its author to ask about the license and whether they would publish it under any of the whitelisted licenses above. Do not automatically assume it is public domain or open source - it isn't.
+
+WHITELIST
+---------
+Software libraries and components released under the following licenses may be included in the Covenant Project:
+
+Category A:
+    Apache License 2.0
+    Apache Software License 1.1. Including variants:
+        PHP License 3.01
+        MX4J License
+    BSD (without advertising clause). Including variants:
+        BSD 2-clause
+        BSD 3-clause
+        DOM4J License
+        PostgreSQL License
+        Eclipse Distribution License 1.0
+    MIT License
+    Microsoft Public License (MsPL)
+    Python Software Foundation License
+    Python Imaging Library Software License
+    UK Open Government Licence. 
+    Oracle Universal Permissive License (UPL) Version 1.0
+    Google "Additional IP Rights Grant (Patents)" file
+
+Category B:
+    Common Development and Distribution Licenses: CDDL 1.0 and CDDL 1.1
+    Common Public License: CPL 1.0
+    Eclipse Public License: EPL 1.0
+    IBM Public License: IPL 1.0
+    Mozilla Public Licenses: MPL 1.0, MPL 1.1, and MPL 2.0
+    Sun Public License: SPL 1.0
+    Open Software License 3.0
+    Eclipse Public License 2.0: EPL 2.0
+
+Refer to https://www.apache.org/legal/resolved.html - categories A and B for an exhaustive whitelist.
+
+BLACKLIST
+---------
+Software listed under the following licenses MUST NOT be included in the Covenant Project.
+
+    GNU GPL
+        General Public License (GPL) v2
+        General Public License (GPL) v3
+        Affero GPL v3
+
+Refer to https://www.apache.org/legal/resolved.html - category X for an exhaustive blacklist.
+
+EXCEPTIONS
+----------
+1. LGPL: libraries released under the GNU Lesser GPL (LGPL) v2.1 and v3 may be included in the Covenant Project, even though they are blacklisted by the Apache Software Foundation for their own projects.
+
+2. GPL, with special consideration to PostGIS: libraries published under GPL v2/v3 MUST NOT be included in Covenant Project. However, it is pertinent to note that PostGIS, the GIS (Geographical Information System) extension to PostgreSQL is published under GPL v2. GPL v2 is incompatible with ASL v2. However, we are not including PostGIS in Covenant. If we choose to use PostGIS, Covenant backend will connect to a database server that might run PostGIS, but Covenant will not include PostGIS in its codebase. So, it is acceptable to connect to a PostgreSQL database with the PostGIS extension. 
+
+3. Dual license: Some software may be published under two or more licenses. In such cases, if one of those licenses is in the whitelist above, then the library may be included in the Covenant Project. Please let the project leads know the license under which you are including it in Covenant so that we may document it in the release.
+
