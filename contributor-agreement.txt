@@ -1,7 +1,7 @@
 CONTRIBUTOR AGREEMENT (CA) FOR COVENANT PROJECT
-Project site: https://covenant.nullhypo.com
+Project site: https://covn.org
 
-Version 2, April 12, 2020.
+Version 3, April 30, 2020.
 
 A. INTRODUCTION
 
@@ -9,7 +9,7 @@ This Contributor Agreement (“CA”) applies to all contributors - developers, 
 
 By participating in the project , you implicitly agree to this agreement as we have made clear on the project website.
 
-However, we would like you to explicitly agree to it by copying and pasting this text into an email, and fill in section 3 (signature). Then email it to covid.ca@nullhypo.com - the email will be archived and forwarded to Senthil Nachimuthu and Avinash Kumar - the co-founders of this project. We will keep your contact information private, but your name may be published on the contributors list, unless you instruct us otherwise.
+However, we would like you to explicitly agree to it by copying and pasting this text into an email, and fill in section 3 (signature). Then email it to help@covn.org - the email will be archived and forwarded to Avinash Kumar and Senthil Nachimuthu - the co-founders of this project. We will keep your contact information private, but your name may be published on the contributors list, unless you instruct us otherwise.
 
 Note that this agreement is designed in good faith to be simple and user friendly. We do not want to overwhelm you with legalese, so sign it with the same good faith.
 
@@ -91,4 +91,4 @@ I affirm that the above information is true to the best of my knowledge. I agree
 Electronic signature (fill your full legal name): 
 Date:
 
-[Please email this completed agreement to covid.ca@nullhypo.com]
+[Please email this completed agreement to help@covn.org]
