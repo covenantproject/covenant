@@ -1,22 +1,26 @@
 # Covenant
 Covenant - COVID-19 Quarantine Monitoring System
 
-Website: https://covenant.nullhypo.com
+Website: https://covn.org
 
 (c) 2020 Covenant Team
 
+Released as open source under the Apache license v2.
+
+
 # Contributor Agreement
-By contributing ideas or code to this project, you agree to  https://github.com/sencode/covenant/blob/master/contributor-agreement.txt
+By contributing ideas or code to this project, you agree to  https://github.com/covenantproject/covenant/blob/master/contributor-agreement.txt
 
 # Code Repositories
 
 We organized the project into multiple repos so that different modules can be managed easily, and this main repo will be used to ingerate them. Here are the individual module repos:
 
-- Mobile Application front-end for patients: 
+- Mobile Application front-end for patients: cov-pat-mobileapp
 - Web Application front-end for health professionals: cov-healthpro-webui
-- Back-end data and API layers:
+- Back-end API, application and database layers: cov-backend
+- Translation of mobile app user interface into multiple languages: cov-translate
 
-Codebase of the pre-v1 proof of concept is at https://github.com/TheSciFiMed/Covid-FLutter 
+[Retired - do not use] Codebase of the pre-v1 proof of concept is in the Covid-FLutter repo. It was originally started at https://github.com/TheSciFiMed/Covid-FLutter. The repo has been archived for historical purposes and not used for development.
 
 # Functionality
 
