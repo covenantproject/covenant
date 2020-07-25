@@ -7,6 +7,8 @@ Website: https://covn.org
 
 Released as open source under the Apache license v2.
 
+# Instructions
+Please see the instructions for contributors at https://covn.org/onboarding 
 
 # Contributor Agreement
 By contributing ideas or code to this project, you agree to  https://github.com/covenantproject/covenant/blob/master/contributor-agreement.txt
